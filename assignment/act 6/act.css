@@ -1,0 +1,22 @@
+.a{
+	float: right;
+
+}
+.b{
+	float: left;
+	font-size: 200%;
+	color: red;
+}
+.c{
+float: right;
+font-size: 200%;
+color: green;
+
+}
+.d{
+float: left;
+
+}
+#g{
+	color: gray;
+}
